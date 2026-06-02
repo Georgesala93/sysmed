@@ -1,0 +1,28 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.useros
+*.suo
+*.userprefs
+*.pidb
+
+# IDE configurations
+.vs/
+.vscode/
+.idea/
+*.sln.docstates
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temporary files and backups
+*~
+*.tmp
+*.bak
+*.swp
